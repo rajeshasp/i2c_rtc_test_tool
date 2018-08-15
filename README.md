@@ -1,2 +1,5 @@
-# i2c_rtc_test_tool
-Command line utility to test I2C RTC devices
+# i2c_test
+
+This is a command line utility to test I2C RTC device.
+
+<Details To be Updated>
